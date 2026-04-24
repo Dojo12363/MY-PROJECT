@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=DM+Serif+Display:ital@0;1&family=Outfit:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "DM Serif Display", serif;
+  --font-outfit: "Outfit", sans-serif;
+  
+  --color-farm-bg: #FFFFFF;
+  --color-farm-text: #0F172A;
+  --color-farm-leaf: #DC2626;
+  --color-farm-deep: #1E40AF;
+  --color-farm-sage: #DBEAFE;
+  --color-farm-rust: #EF4444;
+  --color-farm-cream: #F8FAFC;
+  --color-farm-beige: #E2E8F0;
+  --color-farm-earth: #64748B;
+}
+
